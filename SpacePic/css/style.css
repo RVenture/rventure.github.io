@@ -1,0 +1,129 @@
+@font-face {
+    font-family: avenirU;
+    src: url(../font/avenirU.otf);
+}
+
+@font-face {
+    font-family: avenirR;
+    src: url(../font/avenirR.otf);
+}
+
+ html, body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+ 
+
+#video1 {
+	min-width: 100%;
+	min-height: 100%;
+}
+
+#text-box {
+
+}
+
+.center {
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+}
+
+
+#logo-icon {
+	position: fixed;
+	padding-top: 90px;
+}
+
+#logo-text {
+	font-family: avenirR;
+	position: fixed;
+	text-align: center;
+	color: white;
+	padding-top: 240px;
+	font-size: 60px;
+
+}
+
+#intro-text-main {
+	font-family: avenirU;
+	position: fixed;
+	text-align: center;
+	color: white;
+	padding-top: 364px;
+	font-size: 51px;
+}
+
+#intro-text-description {
+	font-family: avenirU;
+	position: fixed;
+	text-align: center;
+	color: white;
+	padding-top: 473px;
+	font-size: 21px;
+}
+
+#form {
+
+}
+
+#email {
+	border: 1px solid #ffffff;
+	padding: 12px;
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 5;
+	top: 597px;
+	width: 560px;
+	border-radius: 5px;
+	text-align: center;
+	font-family: AvenirU;
+	color: white;
+	text-align: center;
+	font-size: 22px;
+	background-color: transparent;
+
+}
+
+#submit {
+	background-color: transparent;
+	display: none;
+}
+
+input.middle:focus {
+    outline-width: 0;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+[contenteditable="true"]:focus {
+    outline: none;
+}
+
+::-webkit-input-placeholder {
+   color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;  
+}
+
+:-ms-input-placeholder {  
+   color: white;  
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>SpacePic</title>
+	<link rel="stylesheet" href="css/style.css"/>
+	<script src="https://cdn.firebase.com/js/client/1.0.18/firebase.js"></script>
+</head>
+<body>
+
+	<img id="logo-icon" class="center" src="img/logo.png">
+
+	<p id="logo-text" class="center">SpacePic</p>
+
+	<p id="intro-text-main" class="center">The first way for anyone to participate in space.</p>
+
+	<p id="intro-text-description" class="center">Your photo taken in space by a micro satellite.
+	</p>
+
+	<form id="form" class="center" method="post" _lpchecked="1">      
+		<input id="email" name="email" type="text" placeholder="Reserve your spot on the first launch.">
+		<input id="submit" type="submit" value="Go">    
+	</form>
+
+	<video id="video1" autoplay loop muted preload="auto" poster="/img/text.png">
+	  <source src="video/space.mp4" type="video/mp4">
+	  <source src="video/space.webm" type="video/webm">
+	  <source src="video/space.ogg" type="video/ogg">
+	  Your browser does not support the video tag.
+	</video>
+
+</body>
+</html>
