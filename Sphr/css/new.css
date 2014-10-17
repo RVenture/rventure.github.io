@@ -1,0 +1,139 @@
+html,body{
+    overflow:hidden;
+}
+
+.noscroll {
+	overflow: hidden;
+}
+
+.container-fluid {
+padding-right: 0px;
+padding-left: 0px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.full {
+	width: 1440px;
+	height: 779px;
+}
+
+.fullscreen1 {
+	background-color: 000;
+}
+
+.logo {
+
+}
+
+.gap1 {
+	margin-top: 260px;
+}
+
+.circle {
+	border-radius: 50%;
+	width: 68px;
+	height: 68px;
+	background-color: #4A90E2;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.fullscreen2 {
+	background-color: #4A90E2;
+}
+
+@font-face {
+	font-family: avenirNextBold;
+    src: url(../fonts/AvenirNextLTPro-Heavy.otf);
+}
+
+@font-face {
+	font-family: avenirNextUltraLight;
+    src: url(../fonts/AvenirNextLTPro-UltLt.otf);  
+}
+
+.title {
+	font-family: avenirNextBold;
+	font-size: 50px;
+	color: #FFF;
+	margin-top: 50px;
+	margin-left: 50px; 
+}
+
+.gap2 {
+	margin-top: 140px;
+}
+
+.love-text {
+	font-family: avenirNextUltraLight;
+	font-size: 27px;
+	color: #FFF;
+	margin-top: 20px;
+}
+
+.fullscreen3 {
+	background-color: #23F582;
+}
+
+.gap3 {
+	margin-top: 90px;
+}
+
+.referral-pic {
+	width: 95px;
+}
+
+.referral-name {
+	font-family: avenirNextUltraLight;
+	color: #FFF;
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+.referral-text {
+	font-family: avenirNextUltraLight;
+	color: #FFF;
+	font-size: 50px;
+	margin-top: 6px;
+	position: absolute;
+}
+
+.app-div {
+	position: absolute;
+}
+
+.app {
+	width: 71px;
+	margin-top: 659px;
+}
+
+.app1 {
+	margin-left: 65px;
+}
+
+.fullscreen4 {
+	background-color: purple;
+}
+
+.all {
+
+}
+
+.top {
+	position: fixed;
+	top: 0;
+}
+
+#overlay {
+	top:0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: fixed;
+	background-color: transparent;
+}
+
+.moving {
+	background-color: blue;
+}
