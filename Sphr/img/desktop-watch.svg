@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="226px" height="249px" viewBox="0 0 226 249" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>desktop-watch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-242.000000, -410.000000)" fill="#F6F6F6">
+            <g id="desktop-watch" sketch:type="MSLayerGroup" transform="translate(242.000000, 410.000000)">
+                <rect id="Rectangle-65" sketch:type="MSShapeGroup" x="212" y="50" width="14" height="42" rx="10"></rect>
+                <rect id="Rectangle-66" sketch:type="MSShapeGroup" x="215" y="125" width="4" height="65" rx="1"></rect>
+                <path d="M39.9955194,0 C17.906604,0 0,17.9074659 0,40.0061578 L0,208.993842 C0,231.088633 17.9060201,249 39.9955194,249 L176.004481,249 C198.093396,249 216,231.092534 216,208.993842 L216,40.0061578 C216,17.9113669 198.09398,0 176.004481,0 L39.9955194,0 Z M39.9919,9 C22.8755463,9 9,22.8868973 9,40.0037959 L9,208.996204 C9,226.119128 22.8836035,240 39.9919,240 L176.0081,240 C193.124454,240 207,226.113103 207,208.996204 L207,40.0037959 C207,22.8808722 193.116397,9 176.0081,9 L39.9919,9 Z" id="Outer-Edge" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="332px" height="332px" viewBox="0 0 332 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>desktop-web</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="desktop-web" sketch:type="MSLayerGroup" transform="translate(5.000000, 5.000000)">
+            <g id="Welcome" sketch:type="MSShapeGroup">
+                <g id="Desktop-HD">
+                    <g id="desktop-web">
+                        <rect id="Toolbar-BG" fill-opacity="0.899999976" fill="#F6F6F6" x="0" y="0" width="322" height="74"></rect>
+                        <g id="Dots" transform="translate(21.000000, 27.000000)" fill="#FFFFFF">
+                            <ellipse id="Traffic-Light---Green" cx="82.3763169" cy="10.6444585" rx="10.3763169" ry="10.6444585"></ellipse>
+                            <ellipse id="Traffic-Light---Yellow" cx="46.3763169" cy="10.6444585" rx="10.3763169" ry="10.6444585"></ellipse>
+                            <ellipse id="Traffic-Light---Red" cx="10.3763169" cy="10.6444585" rx="10.3763169" ry="10.6444585"></ellipse>
+                        </g>
+                        <rect id="Rectangle-61" stroke="#F6F6F6" stroke-width="9" x="0" y="0" width="322" height="322" rx="10"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

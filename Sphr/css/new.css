@@ -22,21 +22,85 @@ margin-left: auto;
 	background-color: 000;
 }
 
-.logo {
-
-}
-
-.gap1 {
-	margin-top: 260px;
-}
-
 .circle {
 	border-radius: 50%;
-	width: 68px;
-	height: 68px;
+	width: 45px;
+	height: 45px;
 	background-color: #4A90E2;
 	margin-top: 50px;
 	margin-left: 50px;
+}
+.navbar {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+	margin-top: -62px;
+}
+
+ul {
+	display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: avenirNextUltraLight;
+    font-size: 35px;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+li > a {
+	color: #979797;
+}
+
+.gap1 {
+	margin-top: 118px;
+}
+
+.devices {
+	display: inline;
+}
+
+.devices-container {
+	text-align: center;
+}
+
+.desktop-watch {
+	margin-right: 100px;
+	margin-left: 25px;
+	width: 180px;
+}
+
+.desktop-mobile {
+	width: 220px;
+}
+
+.desktop-web {
+	margin-left: 73px;
+	width: 240px;
+	margin-bottom: 40px;
+}
+
+.device-names {
+	display: inline;
+	text-align: center;
+	position: relative;
+	top: -271px;
+}
+
+.device-names > ul > li {
+	margin-right: 180px;
+	text-align: center;
+	color: #979797;
+}
+
+.watch-text {
+	margin-left: 151px
+}
+
+.web-text {
+
 }
 
 .fullscreen2 {
