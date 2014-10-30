@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2500px" height="900px" viewBox="0 0 2500 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="background" sketch:type="MSLayerGroup">
+            <g id="stracture" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-130" x="0" y="0" width="2500" height="900"></rect>
+                <rect id="Rectangle-128" fill-opacity="0.5" fill="#FFFFFF" x="1100" y="0" width="700" height="900"></rect>
+                <rect id="Rectangle-128" fill-opacity="0.5" fill="#FFFFFF" x="1800" y="0" width="700" height="900"></rect>
+                <rect id="Rectangle-128-copy" fill-opacity="0.5" fill="#FFFFFF" x="400" y="0" width="700" height="900"></rect>
+            </g>
+            <g id="text" transform="translate(70.000000, 114.000000)" fill="#506975" sketch:type="MSTextLayer">
+                <text id="by-Aegean-K" filter="url(#filter-1)" font-family="Santa Fe LET" font-size="36" font-weight="normal">
+                    <tspan x="53" y="637">by Aegean K</tspan>
+                </text>
+                <text id="social-work" filter="url(#filter-2)" font-family="Helvetica" font-size="38" font-weight="260" sketch:alignment="middle">
+                    <tspan x="5.308" y="114">Social Network </tspan>
+                </text>
+                <text id="60-x-60-px" filter="url(#filter-3)" font-family="Helvetica Neue" font-size="24" font-weight="normal">
+                    <tspan x="72" y="309">60 x 60 px</tspan>
+                </text>
+                <text id="Vol.2" filter="url(#filter-4)" font-family="Helvetica" font-size="24" font-weight="260" sketch:alignment="middle">
+                    <tspan x="101.984" y="158">Vol.2</tspan>
+                    <tspan x="128" y="187"></tspan>
+                    <tspan x="128" y="216"></tspan>
+                    <tspan x="45.284" y="245">36 vector Icons</tspan>
+                </text>
+                <text id="Shape-" filter="url(#filter-5)" font-family="Helvetica" font-size="24" font-weight="260" sketch:alignment="middle">
+                    <tspan x="629.82" y="23">Shape </tspan>
+                </text>
+                <text id="Circle" filter="url(#filter-6)" font-family="Helvetica" font-size="24" font-weight="260">
+                    <tspan x="1336" y="24">Circle</tspan>
+                </text>
+                <text id="Rounded" filter="url(#filter-7)" font-family="Helvetica" font-size="24" font-weight="260">
+                    <tspan x="2026" y="24">Rounded</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
