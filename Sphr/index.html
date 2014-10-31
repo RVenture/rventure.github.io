@@ -208,22 +208,34 @@
         </div>
         <div class="row-fluid text-center">
               <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
-                <div class="input-email-group">
-                  <textarea type="text"  class="form-control input-message" rows="10" id="inputmessage" placeholder="Lets Talk!"></textarea>
-                </div>
-                <div class="input-email-group">
-                  <input type="text" class="form-control input-email" placeholder="Email">
-                </div>
-                <div class="btn-group button-send-group">
-                  <button class="btn btn-default btn-lg button-send" type="button">
-                    Send
-                  </button>
-                </div>
-                <div class="text-email-group">
-                  <p class="text-email">
-                    or email <a class="text-email" href="mailto:build@shpr.co">build@shpr.co</a>
-                  </p>
-                </div>
+                <form id="ajax-contact" method="post" action="mailer.php">
+
+                    <div id="form-messages"></div>
+
+                    <div class="field">
+                            <input class="form-control input-email" type="text" id="name" name="name" required>
+                    </div>
+
+                    <div class="field">
+                        <textarea class="form-control input-message" id="message" name="message" placeholder="Lets Talk!" required></textarea>
+                    </div>
+
+                    <div class="field">
+                        <input class="form-control input-email" type="email" id="email" name="email" placeholder="Email" required>
+                    </div>
+
+                    <div class="field">
+                        <button class="btn btn-default btn-lg button-send" type="submit">Send</button>
+                    </div>
+
+                    <div class="text-email-group">
+                      <p class="text-email">
+                        or email <a class="text-email" href="mailto:build@shpr.co">build@shpr.co</a>
+                      </p>
+                    </div>
+
+                </form>
+
               </div>
         </div>
       </div>
@@ -235,5 +247,6 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/responsive.js"></script>
     <script src="js/throttle.js"></script>
+    <script src="js/app.js"></script>
   </body>
 </html>
