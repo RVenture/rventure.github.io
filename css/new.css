@@ -151,6 +151,16 @@
 		font-size: 20px;
 	}
 
+	.buy-link {
+		text-decoration: none;
+		color: #fff;
+	}
+
+	.buy-link:hover {
+		text-decoration: none;
+		color: #fff;
+	}
+
 }
 
 /* ===== == = === 30em (480px) === = == ===== */
