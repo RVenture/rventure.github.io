@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="280px" height="281px" viewBox="0 0 280 281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.277697577 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.175 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="-0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.112 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M103.24293,105.851294 C103.310036,107.981162 103.516465,110.23591 103.885074,112.624606 C107.057546,133.183182 134.256525,151.833681 137.148048,153.76415 L137.148841,153.928571 C137.148841,153.928571 137.191142,153.9011 137.272751,153.847073 L137.272751,153.847073 C137.35436,153.9011 137.39666,153.928571 137.39666,153.928571 L137.397453,153.76415 C140.288977,151.833681 167.487956,133.183182 170.660428,112.624606 C171.208334,109.074008 171.397915,105.819359 171.304233,102.830882 L171.304236,102.830882 L171.273014,102.830882 C171.283493,102.477341 171.28877,102.122471 171.28877,101.766347 C171.28877,82.5999416 156.003803,67.0625 137.148841,67.0625 C118.293879,67.0625 103.008913,82.5999416 103.008913,101.766347 C103.008913,103.148352 103.088382,104.511489 103.24293,105.851294 Z" id="path-2"></path>
+        <radialGradient cx="50%" cy="45.6099908%" fx="50%" fy="45.6099908%" r="46.1558615%" id="radialGradient-4">
+            <stop stop-color="#E6ABB5" offset="0%"></stop>
+            <stop stop-color="#E74861" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="29.3011296%" fx="50%" fy="29.3011296%" r="77.4790585%" id="radialGradient-5">
+            <stop stop-color="#E74B66" offset="0%"></stop>
+            <stop stop-color="#E54257" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="48.0074585%" fx="50%" fy="48.0074585%" r="54.3933821%" id="radialGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#EB4451" stop-opacity="0.8" offset="81.0427296%"></stop>
+            <stop stop-color="#962B2D" offset="100%"></stop>
+        </radialGradient>
+        <path d="M103.24293,105.851294 C103.310036,107.981162 103.516465,110.23591 103.885074,112.624606 C107.057546,133.183182 134.256525,151.833681 137.148048,153.76415 L137.148841,153.928571 C137.148841,153.928571 137.191142,153.9011 137.272751,153.847073 L137.272751,153.847073 C137.35436,153.9011 137.39666,153.928571 137.39666,153.928571 L137.397453,153.76415 C140.288977,151.833681 167.487956,133.183182 170.660428,112.624606 C171.208334,109.074008 171.397915,105.819359 171.304233,102.830882 L171.304236,102.830882 L171.273014,102.830882 C171.283493,102.477341 171.28877,102.122471 171.28877,101.766347 C171.28877,82.5999416 156.003803,67.0625 137.148841,67.0625 C118.293879,67.0625 103.008913,82.5999416 103.008913,101.766347 C103.008913,103.148352 103.088382,104.511489 103.24293,105.851294 Z" id="path-7"></path>
+        <linearGradient x1="49.7029603%" y1="-43.9819052%" x2="50%" y2="123.737603%" id="linearGradient-9">
+            <stop stop-color="#D53E4A" offset="0%"></stop>
+            <stop stop-color="#B5333A" offset="40.8769946%"></stop>
+            <stop stop-color="#B82C2E" offset="69.4716376%"></stop>
+            <stop stop-color="#8D2126" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Tablet-Portrait" sketch:type="MSArtboardGroup" transform="translate(-242.000000, -65.000000)">
+            <g id="Icon-2" sketch:type="MSLayerGroup" transform="translate(242.000000, 65.000000)">
+                <rect id="Rectangle-19" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="280" height="281" rx="23"></rect>
+                <ellipse id="Background" stroke="#E74A64" stroke-width="8.4" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="140.299261" cy="140.5" rx="117.5" ry="117.649032"></ellipse>
+                <mask id="mask-3" sketch:name="Path 88" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Path-88" stroke="#979797" stroke-width="2.1" fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <ellipse id="Oval-168" fill="url(#radialGradient-4)" sketch:type="MSShapeGroup" mask="url(#mask-3)" cx="136.939394" cy="79.2321429" rx="40.6327986" ry="40.7053571"></ellipse>
+                <path d="M137.358289,229.044643 C174.142816,229.044643 203.962567,199.171642 203.962567,162.321429 C203.962567,125.471215 174.142816,95.5982143 137.358289,95.5982143 C100.573762,95.5982143 70.7540107,125.471215 70.7540107,162.321429 C70.7540107,199.171642 100.573762,229.044643 137.358289,229.044643 Z" id="Oval-167" fill="url(#radialGradient-5)" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                <mask id="mask-8" sketch:name="Path 89" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Path-89" stroke="url(#radialGradient-6)" stroke-width="2.52" sketch:type="MSShapeGroup" xlink:href="#path-7"></use>
+                <path d="M134.84492,162.741071 C134.84492,162.741071 133.16934,179.946429 144.060606,189.178571 C144.060606,189.178571 157.884137,196.732143 161.235294,198.830357 C161.235294,198.830357 166.262033,200.089286 169.613191,209.741071 L174.639929,209.741071 C174.639929,209.741071 172.964348,200.508929 163.329767,194.633929 C153.695186,188.758929 150.762924,188.339286 146.99287,185.401786 C143.222815,182.464286 139.452763,177.848214 139.871658,162.741071 L139.033868,162.741071 L134.84492,162.741071 Z" id="Path-64" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <polygon id="Triangle-13" fill="url(#linearGradient-9)" sketch:type="MSShapeGroup" points="137.148841 150.991071 144.898396 162.741071 129.399287 162.741071 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
