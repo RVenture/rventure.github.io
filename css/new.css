@@ -161,6 +161,11 @@
 		color: #fff;
 	}
 
+	.made {
+		padding-bottom: 120px;
+		width: 250px;
+	}
+
 }
 
 /* ===== == = === 30em (480px) === = == ===== */
@@ -272,7 +277,7 @@
 	.buy-div {
 		background-color: #E74A64;
 		padding-top: 300px;
-		padding-bottom: 300px;
+		padding-bottom: 200px;
 	}
 
 	.buy-button {
@@ -297,6 +302,11 @@
 	.buy-copy-subtext {
 		font-family: avenirNextUltraLight;
 		font-size: 20px;
+	}
+
+	.made {
+		padding-bottom: 120px;
+		width: 350px;
 	}
 
 }
@@ -401,7 +411,7 @@
 		background-color: #E74A64;
 		padding-top: 300px;
 		padding-bottom: 100px;
-		padding-bottom: 300px;
+		padding-bottom: 200px;
 	}
 
 	.buy-button {
