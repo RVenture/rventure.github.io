@@ -166,6 +166,11 @@
 		width: 250px;
 	}
 
+	.demo-gif {
+		width: 400px;
+		padding-top: 40px;
+	}
+
 }
 
 /* ===== == = === 30em (480px) === = == ===== */
@@ -309,6 +314,11 @@
 		width: 350px;
 	}
 
+	.demo-gif {
+		width: 600px;
+		padding-top: 0px;
+	}
+
 }
 
 /* ===== == = === 56.25em (900px) 2 Columns === = == ===== */
@@ -436,6 +446,10 @@
 	.buy-copy-subtext {
 		font-family: avenirNextUltraLight;
 		font-size: 20px;
+	}
+
+	.demo-gif {
+		width: 800px;
 	}
 
 }
